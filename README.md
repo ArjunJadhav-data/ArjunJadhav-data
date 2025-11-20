@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arjun Jadhav</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h2 align="center">A passionate About Data Science And Data Analyst</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu377" alt="sonu377" /></a> </p>
+<p align="left"> <a href="
+                   y"><img src="https://github-profile-trophy.vercel.app/?username=sonu377" alt="sonu377" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sonu377](https://github.com/sonu377)
 
-- 📫 How to reach me **jadhavarjun9545@gmail.con**
-
+- 📫 How to reach me **jadhavarjun9545@gmail.com**
+-  How to reach me **+91 7499487089**
 - 📄 Know about my experiences [https://docs.google.com/document/d/1mWiq23lrQTXqOMRCqgntTCpXg9glympQ/edit](https://docs.google.com/document/d/1mWiq23lrQTXqOMRCqgntTCpXg9glympQ/edit)
 
 <h3 align="left">Connect with me:</h3>
