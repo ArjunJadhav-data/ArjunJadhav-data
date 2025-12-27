@@ -7,7 +7,8 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻
+<h2 align="center"> About Me </h2>
 
 - 🎓 MCA (Master of Computer Applications) | BCA Graduate  
 - 📊 Passionate about **Data Analysis, Data Visualization & Business Insights**
@@ -17,7 +18,8 @@
 
 ---
 
-## 📂 Projects
+## 📂
+<h2 align="center"> Project  </h2>
 - 🏥 **Hospital Management System**
 - 🎵 **Music Player Application**
 - 🌦 **Weather API Application**
@@ -54,7 +56,8 @@
 
 ## ⚡ Fun Fact
 - 🍗 I love **chicken biryani**
-- 📺 I enjoy watching movies & series 
+- 📺 I enjoy watching movies & series
+- ✈️ I love **travelling**
 - 😄 I like making people smile
 
 <h3 align="left">Programming & Analytics:</h3>
