@@ -7,8 +7,8 @@
 
 ---
 
-## 👨‍💻
-<h2 align="center"> About Me </h2>
+## 
+<h2 align="center"> 👨‍💻 About Me </h2>
 
 - 🎓 MCA (Master of Computer Applications) | BCA Graduate  
 - 📊 Passionate about **Data Analysis, Data Visualization & Business Insights**
@@ -18,8 +18,8 @@
 
 ---
 
-## 📂
-<h2 align="center"> Project  </h2>
+## 
+<h2 align="center">📂 Project  </h2>
 - 🏥 **Hospital Management System**
 - 🎵 **Music Player Application**
 - 🌦 **Weather API Application**
