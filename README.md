@@ -143,14 +143,14 @@ Output  : Interactive KPI Dashboard
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ SQL Data Analysis
+### 🗄️Netflix-Data-Analysis - SQL 
 ```
 Tools   : MySQL · PostgreSQL
           · CTEs · Window Functions
 Type    : Database Analytics
 Output  : Business Queries · Reports
 ```
-[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data)
+[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Netflix-Data-Analysis)
 
 </td>
 </tr>
