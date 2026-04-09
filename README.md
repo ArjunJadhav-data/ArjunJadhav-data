@@ -23,20 +23,21 @@
 ## 👤 About Me
 
 ```yaml
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
+╔═════════════════════════════════════════════════════╗
+║                                                     ║
 ║   Name       :  Arjun Jadhav                        ║
-║   Education  :  MBA  ·  BCA                         ║
+║   Education  :    BCA                               ║
 ║   Role       :  Data Analyst                        ║
 ║   Leveling   :  → Data Scientist                    ║
 ║   Stack      :  Python  ·  SQL  ·  Power BI         ║
 ║   Databases  :  MySQL  ·  PostgreSQL  ·  MongoDB    ║
 ║   Cloud      :  AWS  (Solutions Architect – WIP)    ║
 ║   Location   :  Pune, Maharashtra, India            ║
-║   Seeking    :  Data Analyst | BI | AWS Engineer    ║
-║   Fuel       :  Chicken Biryani 🍗                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+║   Currently  : Working As : Data Analyst            ║
+║   Open to    : Data Analyst | BI | AWS Engineer     ║
+║                                                     ║
+║                                                     ║
+╚═════════════════════════════════════════════════════╝
 ```
 
 > *"Data is my language. Insights are my output."*
