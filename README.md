@@ -164,7 +164,7 @@ Type    : Exploratory Analysis
 Output  : Heatmaps · Distributions
           · Correlation Plots
 ```
-[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data)
+[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Data_Science)
 
 </td>
 <td width="50%" valign="top">
