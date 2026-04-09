@@ -105,14 +105,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Sales Performance Analysis
+### 📈 Superstore-Dashboad-dataset
 ```
 Tools   : Python · Pandas · Matplotlib · Excel
 Type    : Business Analytics
 Output  : Revenue KPIs · Region Trends
           · Executive Dashboard
 ```
-[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data)
+[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Superstore-Dashboad-dataset)
 
 </td>
 <td width="50%" valign="top">
