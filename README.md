@@ -33,7 +33,7 @@
 ║   Databases  :  MySQL  ·  PostgreSQL  ·  MongoDB    ║
 ║   Cloud      :  AWS  (Solutions Architect – WIP)    ║
 ║   Location   :  Pune, Maharashtra, India            ║
-║   Currently  : Working As : Data Analyst            ║
+║   Currently  : Working As  Data Analyst             ║
 ║   Open to    : Data Analyst | BI | AWS Engineer     ║
 ║                                                     ║
 ║                                                     ║
