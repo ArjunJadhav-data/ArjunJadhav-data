@@ -6,8 +6,7 @@
 
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00e5ff?style=for-the-badge&labelColor=0e1018"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MBA%20%2B%20BCA-Graduate-7c5cfc?style=for-the-badge&labelColor=0e1018"/>
-&nbsp;
+<img src="https://img.shields.io/badge/BCA-Graduate-7c5cfc?style=for-the-badge&labelColor=0e1018"/>
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-ff9500?style=for-the-badge&labelColor=0e1018&logo=amazonaws&logoColor=ff9500"/>
 
 <br/><br/>
