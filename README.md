@@ -132,14 +132,14 @@ Output  : Churn Model · Cohort Report
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Excel Sales Dashboard
+### 📊  Excel Sales Dashboard
 ```
-Tools   : Excel · Pivot Tables · Slicers
+Tools   : Excel · Pivot Tables · modeling 
 Type    : Data Visualization
 Output  : Interactive KPI Dashboard
           · Conditional Formatting
 ```
-[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data)
+[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Excel-Sales-Dashboard-data)
 
 </td>
 <td width="50%" valign="top">
@@ -220,21 +220,21 @@ Output  : Patient Records · Billing
 ```
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║  ✅  Cloud Practitioner Essentials     ──  COMPLETED        ║
-  ║  🔄  Solutions Architect Associate     ──  IN PROGRESS      ║
+  ║  ✅  Cloud Practitioner Essentials     ── COMPLETED          ║
+  ║  🔄  Solutions Architect Associate     ──  IN PROGRESS       ║
   ║                                                              ║
   ╠══════════════════════════════════════════════════════════════╣
   ║                                                              ║
   ║  SERVICES MASTERING:                                         ║
   ║                                                              ║
-  ║  ▸ S3 & Data Lake       [████████░░]  80%                   ║
-  ║  ▸ EC2 + Lambda         [██████░░░░]  60%                   ║
-  ║  ▸ RDS & Aurora         [█████░░░░░]  50%                   ║
-  ║  ▸ Glue + Athena ETL    [████░░░░░░]  40%                   ║
-  ║  ▸ QuickSight BI        [███░░░░░░░]  30%                   ║
+  ║  ▸ S3 & Data Lake       [████████░░]  80%                    ║
+  ║  ▸ EC2 + Lambda         [██████░░░░]  60%                    ║
+  ║  ▸ RDS & Aurora         [█████░░░░░]  50%                    ║
+  ║  ▸ Glue + Athena ETL    [████░░░░░░]  40%                    ║
+  ║  ▸ QuickSight BI        [███░░░░░░░]  30%                    ║
   ║                                                              ║
-  ║  🎯  Goal: End-to-End Cloud Data Pipeline on AWS            ║
-  ║      S3  →  Glue ETL  →  Athena  →  QuickSight             ║
+  ║  🎯  Goal: End-to-End Cloud Data Pipeline on AWS             ║
+  ║      S3  →  Glue ETL  →  Athena  →  QuickSight               ║
   ║                                                              ║
   ╚══════════════════════════════════════════════════════════════╝
 ```
