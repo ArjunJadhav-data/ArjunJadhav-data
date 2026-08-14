@@ -3,7 +3,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08090f,50:0e1018,100:00e5ff&height=200&text=ARJUN%20JADHAV&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%20·%20%20Data%20Science%20%20·%20%20AWS%20Cloud&descSize=17&descAlignY=58&descColor=00e5ff&animation=fadeIn"/>
 
 <br/>
-
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00e5ff?style=for-the-badge&labelColor=0e1018"/>
 &nbsp;
 <img src="https://img.shields.io/badge/BCA-Graduate-7c5cfc?style=for-the-badge&labelColor=0e1018"/>
