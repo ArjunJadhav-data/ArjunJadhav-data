@@ -1,13 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08090f,50:0e1018,100:00e5ff&height=200&text=ARJUN%20JADHAV&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%20·%20%20Data%20Science%20%20·%20%20AWS%20Cloud&descSize=17&descAlignY=58&descColor=00e5ff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08090f,50:0e1018,100:00e5ff&height=220&text=ARJUN%20JADHAV&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%20%7C%20%20Power%20BI%20%20%7C%20%20SQL%20%20%7C%20%20Python%20%20%7C%20%20AWS&descSize=18&descAlignY=58&descColor=00e5ff&animation=fadeIn"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00e5ff?style=for-the-badge&labelColor=0e1018"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BCA-Graduate-7c5cfc?style=for-the-badge&labelColor=0e1018"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-ff9500?style=for-the-badge&labelColor=0e1018&logo=amazonaws&logoColor=ff9500"/>
+<img src="https://img.shields.io/badge/Experience-1%2B%20Years-7c5cfc?style=for-the-badge&labelColor=0e1018"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20%E2%9C%85-ff9500?style=for-the-badge&labelColor=0e1018&logo=amazonaws&logoColor=ff9500"/>
 
 <br/><br/>
 
@@ -19,164 +20,182 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 ```yaml
-╔═════════════════════════════════════════════════════╗
-║                                                     ║
-║   Name       :  Arjun Jadhav                        ║
-║   Education  :    BCA                               ║
-║   Role       :  Data Analyst                        ║
-║   Leveling   :  → Data Scientist                    ║
-║   Stack      :  Python  ·  SQL  ·  Power BI         ║
-║   Databases  :  MySQL  ·  PostgreSQL  ·  MongoDB    ║
-║   Cloud      :  AWS  (Solutions Architect – WIP)    ║
-║   Location   :  Pune, Maharashtra, India            ║
-║   Currently  : Working As  Data Analyst             ║
-║   Open to    : Data Analyst | BI | AWS Engineer     ║
-║                                                     ║
-║                                                     ║
-╚═════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   Name        :  Arjun Jadhav                            ║
+║   Role        :  MIS Analyst @ PP Consumer Pvt Ltd       ║
+║   Education   :  BCA — Swami Ramanand Tirth Univ.        ║
+║   Experience  :  1+ Years · FMCG & Automotive            ║
+║                                                          ║
+║   Core Stack  :  Python · SQL · Power BI · Excel         ║
+║   Databases   :  MySQL · PostgreSQL                      ║
+║   Cloud       :  AWS · S3 · Glue · Athena                ║
+║   Location    :  Pune / Mumbai · Open to Relocation      ║
+║                                                          ║
+║   Open to     :  Data Analyst · MIS Analyst · BI Analyst ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 > *"Data is my language. Insights are my output."*
 
 ---
 
-## 🛠️ Tech Stack
+## What I Do
 
-### ⚡ Core Languages & Databases
+```
+  COLLECT      →      CLEAN        →      ANALYZE      →      VISUALIZE      →      DECIDE
+  Raw Data           Python/SQL          DAX/Excel            Power BI               Action
+```
+
+- **MIS Reporting** — Daily, Weekly & Monthly KPI dashboards across 100+ distributors
+- **ETL Pipelines** — Python & SQL-based data cleaning, transformation, and automation
+- **Dashboard Development** — Power BI (DAX, Data Modeling), Tableau, Looker Studio
+- **Cloud Analytics** — AWS S3 → Glue → Athena → Power BI end-to-end pipeline
+- **Business Insights** — Translating raw operational data into actionable decisions
+
+---
+
+## Tech Stack
+
+### Core Languages & Tools
 
 <div align="left">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,java,git,github,vscode,pycharm&theme=dark&perline=9"/>
-
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark&perline=9"/>
 </div>
 
-### 📊 BI · Analytics · Visualization
+### BI · Analytics · Visualization
 
 <div align="left">
 
 <img src="https://img.shields.io/badge/Power%20BI-F5C518?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </div>
 
-### ☁️ AWS Cloud Services
+### AWS Cloud (Hands-on)
 
 <div align="left">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9500"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 <img src="https://img.shields.io/badge/Glue-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📈 Skill Proficiency
+## Key Achievements
 
-```
-  Python       ████████████████████░░░  82%
-  SQL          ███████████████████░░░░  78%
-  Excel        ████████████████████░░░  80%
-  Power BI     █████████████████░░░░░░  70%
-  Data Viz     ███████████████████░░░░  76%
-  Pandas       ████████████████░░░░░░░  65%
-  MongoDB      █████████████░░░░░░░░░░  55%
-  AWS Cloud    ████████████░░░░░░░░░░░  50% ↑
-```
+<div align="center">
+
+| Metric | Impact |
+|--------|--------|
+| Reporting Turnaround | Reduced by **40%** |
+| Manual Effort Saved | **8+ hours/week** |
+| Data Entry Errors | Reduced by **30%** |
+| Data Quality | **98%+** on 50,000+ rows |
+| Reporting Accuracy | Improved by **25%** |
+| Ad Hoc Requests | Reduced by **35%** |
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Superstore-Dashboad-dataset
+### Sales Data Pipeline & Dashboard
 ```
-Tools   : Python · Pandas · Matplotlib · Excel
-Type    : Business Analytics
-Output  : Revenue KPIs · Region Trends
-          · Executive Dashboard
+Tools   : AWS S3 · Glue · Athena · IAM
+          · Power BI · REST API
+Type    : Cloud Data Engineering
+Output  : End-to-end ETL pipeline
+          · Interactive sales dashboard
 ```
-[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Superstore-Dashboad-dataset)
+[![View Project](https://img.shields.io/badge/View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data)
 
 </td>
 <td width="50%" valign="top">
 
-### 👥 Zomato Restaurant Dataset
+### Zomato Restaurant Data Analysis
 ```
-Tools   : Python · SQL · Power BI · Excel
-Type    : Predictive Analytics
-Output  : Churn Model · Cohort Report
-          · Retention Dashboard
+Tools   : Power BI · DAX · Power Query
+          · SQL · Excel
+Type    : Business Analytics
+Output  : 10+ DAX measures tracking
+          Ratings · Pricing · Cuisine KPIs
 ```
-[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Zomato-Restaurant-Dataset)
+[![View Project](https://img.shields.io/badge/View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Zomato-Restaurant-Dataset)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊  Excel Sales Dashboard
+### Superstore Sales & Profitability
 ```
-Tools   : Excel · Pivot Tables · modeling 
-Type    : Data Visualization
-Output  : Interactive KPI Dashboard
-          · Conditional Formatting
+Tools   : SQL · Tableau
+          · CTEs · Window Functions
+Type    : Sales Analytics
+Output  : Top 10 revenue products
+          · 3 underperforming regions
 ```
-[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Excel-Sales-Dashboard-data)
+[![View Project](https://img.shields.io/badge/View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Superstore-Dashboad-dataset)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗄️Netflix-Data-Analysis - SQL 
+### Netflix Data Analysis — SQL
 ```
 Tools   : MySQL · PostgreSQL
           · CTEs · Window Functions
 Type    : Database Analytics
-Output  : Business Queries · Reports
+Output  : Business queries · Reports
+          · Content trend analysis
 ```
-[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Netflix-Data-Analysis)
+[![View Project](https://img.shields.io/badge/View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Netflix-Data-Analysis)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📉 Python Data Visualization
+### Python Data Visualization
 ```
 Tools   : Matplotlib · Seaborn · NumPy
-Type    : Exploratory Analysis
+Type    : Exploratory Data Analysis
 Output  : Heatmaps · Distributions
-          · Correlation Plots
+          · Correlation plots
 ```
-[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Data_Science)
+[![View Project](https://img.shields.io/badge/View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Data_Science)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Hospital Management System
+### Excel Sales Dashboard
 ```
-Tools   : Python · MySQL · Java
-Type    : Full-Stack Application
-Output  : Patient Records · Billing
-          · Appointment System
+Tools   : Advanced Excel · Pivot Tables
+          · XLOOKUP · VBA · Macros
+Type    : Data Visualization
+Output  : Interactive KPI dashboard
+          · Conditional formatting
 ```
-[![View Project](https://img.shields.io/badge/▶%20View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data)
+[![View Project](https://img.shields.io/badge/View%20Project-00e5ff?style=flat-square&labelColor=0e1018)](https://github.com/ArjunJadhav-data/Excel-Sales-Dashboard-data)
 
 </td>
 </tr>
@@ -184,71 +203,87 @@ Output  : Patient Records · Billing
 
 <div align="center">
 
-[![All Projects](https://img.shields.io/badge/⬡%20View%20All%20Projects-00e5ff?style=for-the-badge&labelColor=0e1018)](https://github.com/ArjunJadhav-data?tab=repositories)
+[![All Projects](https://img.shields.io/badge/View%20All%20Projects-00e5ff?style=for-the-badge&labelColor=0e1018)](https://github.com/ArjunJadhav-data?tab=repositories)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Skill Proficiency
+
+```
+  SQL & Databases  ████████████████████░░  80%
+  Advanced Excel   ████████████████████░░  80%
+  Python           ███████████████████░░░  78%
+  Power BI         ████████████████░░░░░░  65%
+  Data Viz         ████████████████░░░░░░  65%
+  AWS Cloud        ████████████░░░░░░░░░░  50% (growing)
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunJadhav-data&show_icons=true&hide_border=true&bg_color=0e1018&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&count_private=true" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunJadhav-data&layout=compact&hide_border=true&bg_color=0e1018&title_color=00e5ff&text_color=c9d1d9" width="38%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunJadhav-data&theme=github_dark" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunJadhav-data&hide_border=true&background=0e1018&stroke=00e5ff&ring=00e5ff&fire=ff9500&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=6b7280" width="55%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunJadhav-data&theme=github_dark" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArjunJadhav-data&theme=github_dark" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunJadhav-data&theme=github_dark" width="32%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ArjunJadhav-data&hide_border=true&background=0e1018&stroke=00e5ff&ring=00e5ff&fire=ff9500&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=6b7280&mode=weekly" width="55%"/>
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunJadhav-data&bg_color=0e1018&color=00e5ff&line=00b8d4&point=00e5ff&area=true&hide_border=true" width="95%"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArjunJadhav-data&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
 </div>
 
 ---
 
-## ☁️ AWS Learning Path
+## AWS Learning Path
 
 ```
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║  ✅  Cloud Practitioner Essentials     ── COMPLETED          ║
-  ║  🔄  Solutions Architect Associate     ──  IN PROGRESS       ║
+  ║  COMPLETED:                                                  ║
+  ║  AWS Cloud Practitioner Essentials          [DONE]           ║
+  ║                                                              ║
+  ║  IN PROGRESS:                                                ║
+  ║  Solutions Architect Associate              [WIP]            ║
   ║                                                              ║
   ╠══════════════════════════════════════════════════════════════╣
   ║                                                              ║
-  ║  SERVICES MASTERING:                                         ║
+  ║  HANDS-ON EXPERIENCE:                                        ║
   ║                                                              ║
-  ║  ▸ S3 & Data Lake       [████████░░]  80%                    ║
-  ║  ▸ EC2 + Lambda         [██████░░░░]  60%                    ║
-  ║  ▸ RDS & Aurora         [█████░░░░░]  50%                    ║
-  ║  ▸ Glue + Athena ETL    [████░░░░░░]  40%                    ║
-  ║  ▸ QuickSight BI        [███░░░░░░░]  30%                    ║
+  ║  S3  (Data Storage & Lake)  [████████░░]  80%               ║
+  ║  Glue (ETL Crawlers)        [██████░░░░]  60%               ║
+  ║  Athena (SQL on S3)         [██████░░░░]  60%               ║
+  ║  IAM  (Access & Roles)      [█████░░░░░]  50%               ║
   ║                                                              ║
-  ║  🎯  Goal: End-to-End Cloud Data Pipeline on AWS             ║
-  ║      S3  →  Glue ETL  →  Athena  →  QuickSight               ║
+  ║  GOAL: S3  ->  Glue ETL  ->  Athena  ->  Power BI           ║
   ║                                                              ║
   ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/jadhavarjun9545@gmail.com-00e5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e1018)](mailto:jadhavarjun9545@gmail.com)
+[![Email](https://img.shields.io/badge/jadhavarjun9545@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e1018)](mailto:jadhavarjun9545@gmail.com)
 &nbsp;
-[![Phone](https://img.shields.io/badge/%2B91%207499487089-00e5ff?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0e1018)](tel:+917499487089)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e1018)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
 &nbsp;
-[![Resume](https://img.shields.io/badge/View%20Resume-7c5cfc?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0e1018)](https://docs.google.com/document/d/1mWiq23lrQTXqOMRCqgntTCpXg9glympQ/edit)
+[![Phone](https://img.shields.io/badge/%2B91%207499487089-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0e1018)](tel:+917499487089)
 
 </div>
 
@@ -261,9 +296,10 @@ Output  : Patient Records · Billing
 <br/>
 
 ```
-// Data is my language. Insights are my output.
+  Currently Open to Data Analyst · MIS Analyst · BI Analyst Roles
+  Pune / Mumbai · Open to Relocation Across India
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0e1018,100:08090f&height=120&section=footer&text=Available%20for%20Data%20Analyst%20%7C%20BI%20%7C%20AWS%20Roles&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0e1018,100:08090f&height=130&section=footer&text=Let%27s%20turn%20data%20into%20decisions&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
